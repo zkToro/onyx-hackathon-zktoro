@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["controller", "world_id_result", "nullifier_hash"],
+  "additionalProperties": false,
+  "properties": {
+    "controller": {
+      "type": "string"
+    },
+    "world_id_result": {
+      "type": "string"
+    },
+    "nullifier_hash": {
+      "type": "string"
+    }
+  }
+}
