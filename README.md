@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # zkToro
 
-![zkToro Logo](logo-image-path)
+![zkToro Logo](public/images/logo.jpeg)
 
 ## Description
 
