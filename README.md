@@ -6,7 +6,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # zkToro
 
-![zkToro Logo](public/images/logo.jpeg)
+<img src="public/images/logo.jpeg" alt="zkToro Logo" width="200" style="border-radius:80;"/>
+
+
 
 ## Description
 
