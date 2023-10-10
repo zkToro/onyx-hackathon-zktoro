@@ -55,7 +55,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 Open [https://simulator.worldcoin.org/id/0x083d03db](https://simulator.worldcoin.org/id/0x083d03db) with your browser, click on *Scan QR or Paste data* and then paste the following public key, representing one of several running nodes' public address on our own AWS servers:
 
-´´´bash
+```bash
 55f286132ea6060090f60934a1c8a0506377075506567748d8de9564f3463b8a
 ```
 
