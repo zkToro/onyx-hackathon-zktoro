@@ -51,6 +51,14 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+### Running the Worldcoin Simulator (if you do not have the app)
+
+Open [https://simulator.worldcoin.org/id/0x083d03db](https://simulator.worldcoin.org/id/0x083d03db) with your browser, click on *Scan QR or Paste data* and then paste the following public key, representing one of several running nodes' public address on our own AWS servers:
+
+´´´bash
+55f286132ea6060090f60934a1c8a0506377075506567748d8de9564f3463b8a
+```
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
