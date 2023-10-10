@@ -18,6 +18,12 @@ zkToro is a decentralised node management platform that ties the nodes in the bl
 - **Biometric Identification:** Every node is tied to a unique biometric identifier, enhancing security.
 - **Decentralized:** Leveraging blockchain technology for decentralized operations.
 
+### Technologies
+
+- **J.P. Morgan's Onyx:** Decentralised credential verification system
+- **Worldcoin:** Secure, private proof of personhood to link a user to a node
+- **Magic:** to conviniently add a wallet and wallet connect options with social login and wallet login
+
 ## Demo
 
 ### Watch the Video
