@@ -8,8 +8,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <img src="public/images/logo.jpeg" alt="zkToro Logo" width="200" style="border-radius:80;"/>
 
-
-
 ## Description
 
 zkToro is a decentralised node management platform that ties the nodes in the blockchain network to a unique biometric identifier from every user. This ensures that malicious actors cannot return to the same network with another node and another wallet address after paying a small slashing fee. This Next.js project is a comprehensive solution for managing nodes effectively and securely.
@@ -19,6 +17,11 @@ zkToro is a decentralised node management platform that ties the nodes in the bl
 - **Node Management:** Easily add, remove, and manage nodes in the blockchain network.
 - **Biometric Identification:** Every node is tied to a unique biometric identifier, enhancing security.
 - **Decentralized:** Leveraging blockchain technology for decentralized operations.
+
+## Demo
+
+### Watch the Video
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/E0AEcINRjXI/0.jpg)](http://www.youtube.com/watch?v=E0AEcINRjXI "Click to Watch!")
 
 ## Installation
 
